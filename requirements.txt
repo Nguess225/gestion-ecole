@@ -3,7 +3,6 @@ pandas
 plotly
 json
 base64
-io
 hashlib
 sqlite3
 dataclass
